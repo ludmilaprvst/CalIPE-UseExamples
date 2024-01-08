@@ -1,0 +1,11 @@
+Beta:-3.285392809673846
+Beta Std:0.08053531936116191
+Beta ini:-2.0
+Nbre iteration:25 
+Nbre iteration max:100 
+Nbre iteration min:3 
+Nbre evt:31
+Nbre data:164
+Fichier Evt:Data/FRinstru01.txt
+Fichier Obs:Data/Obs_FRextended.txt
+Nom fichier execute:O:\ENV\SCAN\BERSSIN\R4\Projet 1.4.4\2 - Macrosismicité\4 - ECUM\Calibration_CalIPE\CalIPE_launchers_example\calibration_AttKov_launch_subsetsFRinstru.py

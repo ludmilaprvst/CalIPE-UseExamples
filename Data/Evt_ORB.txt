@@ -1,0 +1,3 @@
+EVID;I0;QI0;Lat;Lon;QPos;Ic;Depth;Hmin;Hmax;Year;Month;Day
+1100022;7.5;C;50.628;5.515;A;3;6;4;10;1983;5;8
+100;7;C;50.46;4.28;B;3;3;1;15;1967;3;28

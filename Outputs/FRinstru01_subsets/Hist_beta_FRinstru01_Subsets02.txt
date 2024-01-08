@@ -1,0 +1,10 @@
+# Subsets path : Outputs/FRinstru01_subsets
+# Datasetlist : ../Data/Subsets/FRinstru/dataset_list.xlsx
+# Other comments :   
+Beta value;Probability
+-3.3500;0.0267
+-3.2500;0.7133
+-3.1500;0.1467
+-3.0500;0.1067
+-2.9500;0.0067
+-2.8500;0.0000
