@@ -43,6 +43,6 @@ ax.axvline(x=summary_FRinstru.beta.mean(), ls='--', color='b',
             label='Mean value of all Fr subsets results')
 ax.legend()
 plt.tight_layout()
-fig.savefig('Figures_articles/Fig6.png', dpi=150)
+fig.savefig('Figures_articles/Fig8.png', dpi=150)
 plt.show()
 
