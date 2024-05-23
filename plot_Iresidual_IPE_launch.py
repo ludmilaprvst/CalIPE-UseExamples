@@ -37,8 +37,8 @@ plt.tight_layout()
 
 #%% Figure 12
 # Input filename and path
-outputname = 'Obsbin_001.csv'
-path = 'Outputs/IPEs/FR_OneStep_gamma0'
+outputname = 'Obsbin_000.csv'
+path = 'Outputs/IPEs/OneStep_FRinstru01_gamma0'
 # Computing the residuals
 obsbin = ppI.compute_WEresiduals(outputname, path)
 # Plot the figure and save it
