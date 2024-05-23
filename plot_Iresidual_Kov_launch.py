@@ -21,7 +21,7 @@ from CalIPE.postprocessing_fc.postprocessing_Kovbeta import plot_dI_Depi, plot_d
 # path to the inversion output results
 path_subsets =  'Outputs/FRinstru01/Beta'
 # Base name of the targeted inversion result
-runname_basedb = 'FRinstru01_ROBS_wdevt-uni_betaini30'
+runname_basedb = 'FRinstru01_ROBS_wIStdI_evtUni_betaini30'
 
 #%% Plot the figure
 
